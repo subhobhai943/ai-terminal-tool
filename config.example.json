@@ -1,0 +1,14 @@
+{
+  "api_keys": {
+    "openai": "sk-your-openai-api-key-here",
+    "claude": "sk-ant-api-key-here", 
+    "gemini": "your-gemini-api-key-here",
+    "perplexity": "pplx-your-perplexity-api-key-here"
+  },
+  "preferences": {
+    "default_provider": "OpenAI",
+    "default_model": "gpt-4o",
+    "max_tokens": 1000,
+    "temperature": 0.7
+  }
+}
